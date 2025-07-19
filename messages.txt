@@ -23,3 +23,5 @@
 [2025-07-18T20:58:08.713Z] kRxZy_kRxZy: kRxZy_kRxZy commented on your project <a href="/projects/#1?commentId=7f6169fa-6905-4b7f-a9a4-8af6eb727870">First Project</a>: Test
 [2025-07-18T21:09:30.168Z] kRxZy_kRxZy: kRxZy_kRxZy commented on your project <a href="/projects/#1?commentId=aab1ca17-fcda-4377-9526-835aacc30ec6">First Project</a>: Another test
 [2025-07-19T06:45:24.447Z] kRxZy_kRxZy: kRxZy_kRxZy commented on your project <a href="/projects/#2?commentId=2eeaa1bd-7f82-4e67-bcc5-9d6fd3b17d43">Untitled Project</a>: Test123
+[2025-07-19T07:11:11.464Z] kRxZy_kRxZy: kRxZy_kRxZy favorited your project <a href="/projects/#2">First Project-ish</a>
+[2025-07-19T07:11:12.319Z] kRxZy_kRxZy: kRxZy_kRxZy liked your project <a href="/projects/#2">First Project-ish</a>
